@@ -1,2 +1,2 @@
 # Examen-programacion 
-este es el readme del primer examen de programacion en python
+https://github.com/AngelMP02/Examen-programacion/blob/main/README.md
